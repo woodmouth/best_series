@@ -1,7 +1,5 @@
 package com.baeldung.log4j;
 
-import java.util.stream.IntStream;
-
 import org.apache.log4j.Logger;
 
 public class Log4jRollingExample {
